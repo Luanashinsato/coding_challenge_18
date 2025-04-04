@@ -11,5 +11,5 @@ function Greeting() {
     </div>
   );
 }
-// Export the Greeting component so it can be used in other files
+// Exporting the Greeting component so it can be used in other files
 export default Greeting;
